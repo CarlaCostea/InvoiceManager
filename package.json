@@ -1,0 +1,29 @@
+{
+  "name": "invoicemanager",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "release": "cd android && gradlew.bat assembleRelease"
+  },
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.10",
+    "react-native-webview": "^10.3.1",
+    "vue-native-core": "^0.1.4",
+    "vue-native-helper": "^0.1.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/runtime": "7.10.2",
+    "babel-jest": "26.0.1",
+    "jest": "26.0.1",
+    "metro-react-native-babel-preset": "0.59.0",
+    "react-test-renderer": "16.8.3",
+    "vue-native-scripts": "^0.1.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
