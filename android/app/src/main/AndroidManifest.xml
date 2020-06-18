@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.invoicemanager">
+  package="wecode.invoicemanager">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

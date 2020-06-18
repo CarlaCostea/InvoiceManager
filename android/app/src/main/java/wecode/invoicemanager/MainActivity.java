@@ -1,4 +1,4 @@
-package com.invoicemanager;
+package wecode.invoicemanager;
 
 import com.facebook.react.ReactActivity;
 

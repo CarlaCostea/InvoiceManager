@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758688562180",
+    "firebase_url": "https://invoicemanager-a542d.firebaseio.com",
+    "project_id": "invoicemanager-a542d",
+    "storage_bucket": "invoicemanager-a542d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758688562180:android:19e6c4a66b124727",
+        "android_client_info": {
+          "package_name": "wecode.invoicemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758688562180-1c5edioqcc09dam4tghqmeu6r6e5o910.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wecode.invoicemanager",
+            "certificate_hash": "9c011120d3888d903db5dd1bac1e4193187a8102"
+          }
+        },
+        {
+          "client_id": "758688562180-h5t5nppn67ikdsj53e8sckn27ni3umrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92XYKrF6SbhcLoUTpjPaBUx9HxyPw-ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758688562180-h5t5nppn67ikdsj53e8sckn27ni3umrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
